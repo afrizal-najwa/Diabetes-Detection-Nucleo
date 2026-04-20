@@ -1,0 +1,24 @@
+# Data Manipulation & Math
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning Core
+scikit-learn
+
+# Tri-Force Ensemble Models
+xgboost
+lightgbm
+catboost
+
+# Explainable AI (XAI)
+shap
+lime
+
+# Serialization & Utilities
+joblib
+ipython
